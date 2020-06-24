@@ -37,5 +37,6 @@ module.exports = {
     DeleteChirp: deleteChirp,
     GetChirps: getChirps,
     GetChirp: getChirp,
-    UpdateChirp: updateChirp
+    UpdateChirp: updateChirp,
+    WriteChirp: writeChirps
 }
